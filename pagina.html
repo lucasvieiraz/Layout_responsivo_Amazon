@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Layout responsivo</title>
+    <meta charset="UTF-8">
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        #layout {
+            display: grid;
+            grid-template-rows: 15vh 10vh 55vh 20vh; 
+            grid-template-areas: "cabecalho cabecalho" "principal menu" "rodape rodape";
+        }
+
+        .cabecalho {
+            grid-area: cabecalho;
+            background-color: black;
+            color: white; 
+        }
+
+        
+        .principal {
+            grid-area: principal;
+            background-color: lightgray;
+        }
+
+        .menu {
+            grid-area: menu;
+            background-color: lightblue;
+        }
+
+        .rodape {
+            grid-area: rodape;
+            background-color: lightgreen;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="layout">
+        <div class="cabecalho">Cabeçalho</div>
+        <div class="principal">Principal</div>
+        <div class="menu">Menu</div>
+        <div class="rodape">Rodapé</div>
+    </div>
+</body>
+
+</html>
