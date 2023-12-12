@@ -20,7 +20,7 @@ Este projeto é um exemplo simples de uma página de e-commerce para produtos da
 
  
 
-![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/c882f045-2542-4033-a498-0e741eab506c)
+![Captura de tela 2023-12-12 103701](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/45bced48-91bf-4ce5-a12d-eed8411dafe5)
 
 
 
