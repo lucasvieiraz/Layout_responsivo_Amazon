@@ -17,14 +17,22 @@ Este projeto é um exemplo simples de uma página de e-commerce para produtos da
 
  ![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/1dcd5c67-e1bc-4806-8088-27e879cd1b87)
 
- ![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/e57614d2-1aac-4e0d-a4d0-b6fbe51e521d)
+
+ 
+
+![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/c882f045-2542-4033-a498-0e741eab506c)
+
 
 
 ## Como Executar o Projeto
-
-1. Clone este repositório:
+Clone este repositório:
 
    ```bash
+   
    git clone https://github.com/lucasvieiraz/pagina.html.git
+```
+## Autor
+Lucas Vieira
+https://www.linkedin.com/in/lucasvieiraz/
 
 
