@@ -9,17 +9,22 @@ Este projeto é um exemplo simples de uma página de e-commerce para produtos da
 - HTML5
 - CSS3 (especificamente, CSS Grid)
 
+![Captura de tela 2023-12-12 105134](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/94f7c196-d433-438e-8f65-f09dd08e52b2)
+
 ## Objetivos do Projeto
 
-1. **Aprender CSS Grid:** O foco principal deste projeto é adquirir familiaridade com os conceitos e propriedades do CSS Grid, aplicando-os para criar um layout eficiente e responsivo.
+ O foco principal deste projeto é adquirir familiaridade com os conceitos e propriedades do CSS Grid, aplicando-os para criar um layout eficiente e responsivo. Além disso, é praticar a inserção de fotos de produtos fictícios da Amazon com a ajuda do box model e também adicionar botões que redirecionam os usuários diretamente para a página oficial do produto na Amazon
 
-2. **Integração com a Amazon:** Praticar a inserção de produtos fictícios da Amazon e adicionar botões que redirecionam os usuários diretamente para a página oficial do produto na Amazon.
+ ![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/1dcd5c67-e1bc-4806-8088-27e879cd1b87)
+
+ ![Captura de tela 2023-12-12 103603](https://github.com/lucasvieiraz/Layout_responsivo/assets/138801061/e57614d2-1aac-4e0d-a4d0-b6fbe51e521d)
+
 
 ## Como Executar o Projeto
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/lucasvieiraz/pagina.html.git
 
 
